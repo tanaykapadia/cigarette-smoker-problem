@@ -9,7 +9,7 @@ In this project, we try to explore the classical synchronisation problem. Our ob
 - Use monitor to solve the problem
 - Provide a comparative analysis of the different solutions
 
-The repository contains source code for all different solutions proposed.
+The repository contains source code for all different solutions proposed as well as a detailed report describing the problem statement as well as our approaches.
 
 ## Instructions to run a particular file 
 Run the following command on the terminal:
